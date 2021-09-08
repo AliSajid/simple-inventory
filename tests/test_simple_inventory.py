@@ -1,4 +1,5 @@
-from src.app import __version__, app
+from simple_inventory import __version__, app
+import pytest
 import json
 
 app.testing = True
