@@ -1,5 +1,5 @@
 from simple_inventory import __version__, create_app
-import pytest
+# import pytest
 import json
 
 app = create_app()
